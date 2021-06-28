@@ -1,0 +1,5 @@
+.vscode/
+.mypy_cache/
+googleforms/__pycache__/
+tests/__pycache__/
+geckodriver.log
